@@ -63,16 +63,16 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-## DATA_HEAD
+## DATA_HEAD:
 ![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/Saibandhavi75/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/ml%20otp1.png?raw=true)
 
-## ACCURACY
+## ACCURACY:
 ![output](https://github.com/Saibandhavi75/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/ml%20otp2.png?raw=true)
 
 ## CONFUSION MATRIX:
 ![output](https://github.com/Saibandhavi75/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/ml%20OTP3%20N.png?raw=true)
 
-## CLASSIFICATION REPORT
+## CLASSIFICATION REPORT:
 ![output](https://github.com/Saibandhavi75/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/ml%20otp4.png?raw=true)
 
 ## PREDICTED VALUES:
